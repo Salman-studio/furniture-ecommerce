@@ -1,0 +1,7 @@
+# furniture/robots.txt
+# Allow all by default. Adjust disallow rules for private pages or staging environments.
+
+User-agent: *
+Disallow: /includes/
+Disallow: /assets/js/jquery.min.js
+Sitemap: http://example.com/sitemap.xml
