@@ -37,14 +37,33 @@ This project includes a dynamic front-end, fully functional admin panel, and MyS
 | **Server** | XAMPP / Apache |
 
 
- 🔹 Homepage
-![Homepage](screenshots/homepage.png)
 
- 🔹 Product Management
-![Product Management](screenshots/products.png)
+1.How to Run Locally
 
- 🔹 Orders Panel
-![Orders](screenshots/orders.png)
+Clone the repository:
+git clone https://github.com/Salman-studio/furniture-ecommerce.git
 
-### 🔹 Dashboard
-![Dashboard](screenshots/dashboard.png)
+2.Move the folder to htdocs (XAMPP).
+
+3.Import the database file:
+
+Open phpMyAdmin
+
+Create a new database (example: furniture_db)
+
+Import the .sql file from the project
+
+4.Update DB credentials in:
+includes/db_connection.php
+
+5.Run the project:
+http://localhost/furniture-ecommerce/
+
+
+If you want to collaborate or need help improving this project:
+
+Developer: Salman ansari
+GitHub: https://github.com/Salman-studio
+
+Email: salmanansari271100@gmail.com
+
