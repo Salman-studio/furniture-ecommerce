@@ -1,5 +1,4 @@
-# furniture-ecommerce
-backend for manage database for website
+
 #  Furniture E-commerce Management System
 
 A complete Furniture E-commerce web application built to manage products, categories, orders, customers, and admin operations.  
